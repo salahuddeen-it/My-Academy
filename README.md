@@ -1,3 +1,3 @@
 # My-Academy
-WordPress Academy Static Site
+Tutor Academy Site
 URL: https://sp-tutor-academy.netlify.app/
